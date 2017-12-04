@@ -1,2 +1,2 @@
 # ganesh
-my first repo
+my first repo just for update
